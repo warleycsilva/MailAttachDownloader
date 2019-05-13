@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DownloadAnexos", "DownloadAnexos\DownloadAnexos.csproj", "{302B9371-F655-4CAD-9958-6593AD652401}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{3EAA9116-9086-4407-811A-5E165D670BCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{302B9371-F655-4CAD-9958-6593AD652401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302B9371-F655-4CAD-9958-6593AD652401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302B9371-F655-4CAD-9958-6593AD652401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302B9371-F655-4CAD-9958-6593AD652401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAA9116-9086-4407-811A-5E165D670BCC}.Debug|Any CPU.ActiveCfg = Debug
+		{3EAA9116-9086-4407-811A-5E165D670BCC}.Debug|Any CPU.Build.0 = Debug
+		{3EAA9116-9086-4407-811A-5E165D670BCC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07DFDB1-1778-4BFA-9341-DC86CBD2301F}
+	EndGlobalSection
+EndGlobal
